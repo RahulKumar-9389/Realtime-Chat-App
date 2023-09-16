@@ -2,10 +2,11 @@
   "name": "wassup",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon server",
-    "serve": "node server"
+    "serve": "node server",
+    "start":"node server.js"
   },
   "keywords": [],
   "author": "",
